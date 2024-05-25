@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome%20My%20Github&fontSize=90&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome%20Jiwon's%20Github&fontSize=72&animation=fadeIn" />
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>
 
 😄 Hi, I'm a web developer studying Java,<br/> with a particular interest in backend development<br>
