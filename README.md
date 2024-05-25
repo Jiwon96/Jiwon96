@@ -41,7 +41,7 @@ I also want to study data-related topics in the future.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=idjjm95)](https://solved.ac/idjjm95/)
 
-### contact
+## 💬 contact
 <img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Linked in-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 
 
